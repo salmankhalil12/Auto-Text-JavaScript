@@ -44,4 +44,12 @@ function updateColor() {
         addText =0
     }
     
+    
+    if (textIndex === text.length) {
+        textIndex=0;
+    }
+    
+    setTimeout(updateColor, 500);
+}
+
   
