@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 32px;
+    background-color: rgb(255, 113, 141);
+    font-style: italic;
+    color: white;
+    text-decoration: underline;
+    text-shadow: #FC0 1px 0 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
